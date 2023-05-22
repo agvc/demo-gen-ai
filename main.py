@@ -14,7 +14,7 @@ from flask import Flask, render_template, request, jsonify, make_response
 
 app = Flask(__name__)
 
-DATA_PATH = 'sample_data'
+DATA_PATH = 'data'
 
 def generate_reply(prompt):
     model = TextGenerationModel.from_pretrained('text-bison')
