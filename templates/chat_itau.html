@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-header">Chatbot Itau Cartões</div>
+        <div class="card-body">
+            <div id="chat-messages" class="mb-3" style="height: 300px; overflow-y: scroll;">
+                <!-- Chat messages will be appended here -->
+            </div>
+            <form id="chat-form">
+                <div class="input-group">
+                    <input autocomplete="off" type="text" id="user-input" class="form-control" placeholder="Digite sua menssagem...">
+                    <div class="input-group-append">
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                        <button type="button" id="clear-history" class="btn btn-danger">Limpar Histórico</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+  function appendMessage(message, sender) {
+      const messageElement = $('<div>').addClass('alert alert-' + (sender === 'user' ? 'primary' : 'secondary'))
+          .text(sender === 'user' ? 'You: ' : 'Chatbot: ').append($('<span>').text(message));
+      $('#chat-messages').append(messageElement);
+      $('#chat-messages').scrollTop($('#chat-messages')[0].scrollHeight);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+      document.querySelector('#chat-form').addEventListener('submit', async (event) => {
+          event.preventDefault();
+          const userInput = document.querySelector('#user-input').value.trim();
+          if (userInput.length === 0) return;
+
+          appendMessage(userInput, 'user');
+          document.querySelector('#user-input').value = '';
+
+          try {
+              const response = await fetch('/itau_chat', { // Replace with your Flask API endpoint
+                  method: 'POST',
+                  body: JSON.stringify({ 'message': userInput }),
+                  headers: { 'Content-Type': 'application/json' }
+              });
+
+              if (response.ok) {
+                  const data = await response.json();
+                  appendMessage(data.response, 'chatbot');
+              } else {
+                  appendMessage('Error connecting to the server.', 'chatbot');
+              }
+          } catch (error) {
+              appendMessage('Error connecting to the server.', 'chatbot');
+          }
+      });
+  });
+
+  function deleteCookie(name) {
+    document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    // ... (the existing code for handling form submission)
+
+    document.querySelector('#clear-history').addEventListener('click', () => {
+        document.querySelector('#chat-messages').innerHTML = '';
+        deleteCookie('uid_chat');
+    });
+});
+
+</script>
+
+{% endblock %}

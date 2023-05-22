@@ -1,0 +1,98 @@
+nome_cartao|marca_cartao|renda_minima|anuidade|Isenção_anuidade|pontos|beneficios
+Azul Infinite|Visa|10000|R$1200|Anuidade grátis gastando R$ 20.000/fatura|3 pontos por dolar gasto|"- 60 mil pontos bônus ao atingir o gasto de R$ 20 mil por fatura durante as 3 primeiras faturas;
+- 10% de desconto em passagens Azul, Azul Viagens, clube TudoAzul e compra de pontos;​
+- Ganhe 3,0 pontosTudoAzul a cada dólar gasto em compras nacionais e 3,5 pontos TudoAzul a cada dólar gasto em compras internacionais;
+- 3 bagagens grátis em voos domésticos e em voos internacionais (EUA/Europa). 1 bagagem grátis em voos para a América do Sul;
+- Acompanhante grátis em 2 viagens;
+- Upgrade de cabine
+- Salas VIP em Viracopos (embarque internacional) e em Congonhas (embarque nacional);
+- Parcelamento em até 12 vezes sem juros na compra de passagens Azul;
+- Antecipação gratuita de voo;
+- Check- in e Embarque prioritário nos voos Azul;
+- 2 Acessos GRATUITOS por ano em todas as Salas VIP do Visa Airport Companion;
+- 2 Diárias Grátis por ano na UNIDAS;
+- Pontos que não expiram;
+- Categoria Diamante no Programa TudoAzul.
+- Tag Itaú livre de mensalidade"
+Azul Platinum|Mastercard|5000|R$660|Anuidade grátis gastandoR$4.000/fatura|2.2 pontos por dolar gasto|"- 12 mil pontos bônus ao atingir o gasto de R$ 4 mil por fatura durante as 3 primeiras faturas;
+- 10% de desconto em passagens Azul, Azul Viagens, clube TudoAzul e compra de pontos;
+- 2,6 pontos TudoAzul a cada dólar gasto na Azul
+- 2 bagagens grátis em voos domésticos e em voos internacionais (EUA/Europa). 1 bagagem grátis em voos para a América do Sul;
+- Salas VIP em Viracopos (embarque internacional) e em Congonhas (embarque nacional);
+- Antecipação gratuita de voo;
+- Parcelamento em até 12 vezes sem juros na compra de passagens Azul;
+- Espaço Azul 2 vezes ao ano;
+- Categoria Safira no Programa TudoAzul
+- Tag Itaú livre de mensalidade"
+LATAM Pass Black|Mastercard|10000|R$1200|Anuidade grátis gastando R$20000/fatura|até 3.5 pontos por dolar gasto|"- 2,5 pontos LATAM PASS a cada dólar gasto em compras no Brasil;
+- 3,5 pontos LATAM Pass a cada dólar gasto em compras no Exterior;
+- 20 mil pontos bônus ao atingir o gasto de R$20.000,00 nas três primeiras faturas;
+- Clientes membros do Clube LATAM Pass acumulam 70% de pontos extras a cada dólar gasto em compras;
+- Ganhe 6 cupons de upgrade de cabine por ano em passagens LATAM Airlines;
+- Pontos que não expiram:
+- Acesso a Sala VIP LATAM;
+- Acesso ilimitado as salas Vip Mastercard Black;
+- Embarque e Check In preferencial em voos domésticos e internacionais;
+- Junte até 9.000 pontos qualificáveis por ano;
+- Benefícios exclusivos no Clube LATAM Pass;
+- Passagens aéreas LATAM Airlines em até 10x sem juros;
+- 10% de desconto em resgates no Shopping LATAM Pass;
+- Seguros e Assistências para viagem Mastercard;
+- Esse cartão permite realizar pagamentos por aproximação.
+Tag Itaú livre de mensalidade;"
+Itaú Uniclass Signature|Visa|5000|Anuidade grátis para sempre|Anuidade grátis para sempre|sem pontuação|"- Até 3 adicionais gratuitos, com os mesmos benefícios do titular do cartão;
+- Tag Itaú livre de mensalidade;
+- Esse cartão permite realizar pagamentos por aproximação.
+- benefícios variante Signature:"
+LATAM Pass Platinum|Mastercard|5000|R$660|Anuidade grátis gastando R$4000/fatura|2 pontos por dolar gasto|"- 8 mil pontos bônus ao atingir o gasto de R$4.000,00 nas três primeiras faturas;
+- Clientes membros do Clube LATAM Pass acumulam 70% de pontos extras a cada dólar gasto em compras;
+- 2 pontos LATAM Pass a cada dólar gasto em compras ;
+- 3 cupons de upgrade de cabine por ano em passagens LATAM Airlines;
+- Passagens aéreas LATAM Airlines em até 10x sem juros;
+- Junte até 5.000 pontos qualificáveis por ano;
+- Promoções exclusivas para resgate de passagens aéreas;
+- 30% de desconto na compra de pontos LATAM Pass;
+- 10% de desconto em resgates no Shopping LATAM Pass;
+- Tag itaú livre de mensalidade;"
+LATAM Pass Infinite|Visa|10000|R$1200|Anuidade grátis gastando R$20mil/fatura|Até 3.5 pontos por dólar gasto|"- 2,5 pontos LATAM Pass a cada dólar gasto em compras no Brasil;
+- 3,5 pontos LATAM Pass a cada dólar gasto em compras no Exterior;
+- 20 mil pontos bônus ao atingir o gasto de R$20.000,00 nas três primeiras faturas.;
+- Clientes membros do Clube LATAM Pass acumulam 70% de pontos extras a cada dólar gasto em compras;
+- Pontos que não expiram:;
+- Ganhe 6 cupons de upgrade de cabine por ano em passagens LATAM Airlines;
+- Acesso a Sala VIP LATAM ao voar LATAM Airlines;
+- 2 Acessos GRATUITOS por ano em todas as Salas VIP do Visa Airport Companion;
+- Embarque e Check In preferencial em voos domésticos e internacionais (titular + acompanhante);
+- Junte até 9.000 pontos qualificáveis por ano;
+- Benefícios exclusivos no Clube LATAM Pass;
+- 10% de desconto em resgates no Shopping LATAM Pass;
+- Passagens aéreas LATAM Airlines em até 10x sem juros;
+- Seguros e Assistências para viagem VISA;"
+Personnalité Black Pontos|Mastercard|15000|R$996|Anuidade grátis gastando R$10mil/fatura|Até 3 pontos por dólar gasto|"- Acesso gratuito e ilimitado à sala vip Mastercard em Guarulhos
+- 2 acessos gratuitos, por ano, em mais de 1.100 salas Salas VIP LoungeKey
+- Isenção de 12 meses na tarifa da conta e 10 dias sem juros no cheque especial
+- Isenção de 12 meses na anuidade do cartão de crédito, caso o seu cartão tenha sido aprovado nos últimos 3 meses
+- Isenção total da anuidade do seu cartão de crédito, enquanto tiver aplicações a partir de R$50mil na sua conta Personnalité
+- todos os benefícios exclusivos oferecidos pelo Mastercard® Black como o Mastercard Black™ Concierge, MasterSeguro, Mastercard Surpreenda, entre outros."
+Itaú Uniclass Black|Mastercard|10000|R$864|Grátis: para quem tem R$50mil investidos ou R$8mil/fatura|1.8 pontos por dólar gasto|"- Sala VIP Conte também com o benefício de acesso à Sala Vip Mastercard do aeroporto de Guarulhos;
+- Benefício dos 10 dias sem juros no cheque especial¹ por 12 meses;
+- Isenção de 12 meses na anuidade do cartão de crédito, caso o seu cartão tenha sido aprovado nos últimos 3 meses;
+- Isenção total da anuidade do seu cartão de crédito, enquanto tiver aplicações a partir de R$50mil na sua conta Uniclass;
+- Isenção na tarifa da conta corrente por tempo indeterminado;
+- Seguro Médico em Viagens Mastercard;
+- Limite flexível que se adequa aos gastos do cliente;
+- Até 3 adicionais gratuitos, com os mesmos benefícios do titular do cartão;
+Tag Itaú: Passe em estacionamentos e pedágios sem filas e sem mensalidade;"
+Itau Uniclass Mastercard Platinum|Mastercard|5000|Anuidade grátis para sempre|Anuidade grátis para sempre|sem pontuação|"- Tag Itaú
+-  MasterSeguro de Automóveis: O automóvel que você alugar no Brasil ou em qualquer lugar do mundo usando o seu cartão Mastercard Platinum, estará coberto contra danos causados por colisão, roubo e/ou incêndio acidental;
+- Seguro Médico em Viagens;
+- Assistência global de emergência: Assistência Global ao portador do cartão, com atendimento 24 horas por dia, 365 dias por ano;"
+Pão de Açúcar Black|Mastercard|5000|R$650|nenhuma isenção|até 5 pontos por dolar gasto|"- 20% de desconto em Vinhos;
+- 20% de desconto em Cervejas Especiais;
+- 20% de desconto em Queijos;
+- 20% de desconto em Marcas Exclusivas (Qualitá, Taeq e Casino);"
+MIT Platinum|Visa|5000|R$720|nenhuma isenção|sem pontuação|"- 5% do valor das suas compras no Brasil ou no exterior viram pontos, podendo converter em até R$20.000 de desconto em um MIT 0km, revisões, serviços, peças e acessórios;
+- reboque, chaveiro, socorro elétrico, mecânico, troca de pneu, vidraceiro e carro reserva em caso de eventual acidente;"
+TIM Platinum|Visa|5000|R$708 |nenhuma isenção|2.0 pontos por dolar gasto|"- Suas compras viram pontos para trocar por celulares no site de resgate TIM;
+- Ganhe mais pontos na TIM com Recarga Express, pagamento automático da fatura TIM e compras na loja online TIM;
+- 10% de desconto e parcelamento em até 12x sem juros na loja virtual TIM."
