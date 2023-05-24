@@ -5,7 +5,7 @@
 <div class="container mt-5">
     <form id="upload-form">
         <div class="form-group">
-            <input type="file" class="form-control-file" id="file-upload" accept=".pdf">
+            <input type="file" class="form-control-file" id="file-upload" accept=".pdf,.txt">
         </div>
         <button type="submit" class="btn btn-primary">Upload</button>
     </form>
@@ -50,7 +50,7 @@
           document.querySelector('#user-input').value = '';
 
           try {
-              const response = await fetch('/pdf_chat', { // Replace with your Flask API endpoint
+              const response = await fetch('/context_chat', { // Replace with your Flask API endpoint
                   method: 'POST',
                   body: JSON.stringify({ 'message': userInput }),
                   headers: { 'Content-Type': 'application/json' }
