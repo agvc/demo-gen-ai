@@ -75,9 +75,9 @@ def sentiment_analysis():
     return render_template('sentiment.html', data=data)
 
 
-@app.route('/chat_itau')
-def chat_itau():
-    return render_template('chat_itau.html')
+@app.route('/chat_prompt')
+def chat_prompt():
+    return render_template('chat_prompt.html')
 
 
 @app.route('/chat_context')

@@ -38,7 +38,7 @@
           document.querySelector('#user-input').value = '';
 
           try {
-              const response = await fetch('/itau_chat', { // Replace with your Flask API endpoint
+              const response = await fetch('/prompt_chat', { // Replace with your Flask API endpoint
                   method: 'POST',
                   body: JSON.stringify({ 'message': userInput }),
                   headers: { 'Content-Type': 'application/json' }
