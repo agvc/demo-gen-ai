@@ -85,8 +85,8 @@ def chat_context():
     return render_template('chat_context.html')
 
 
-@app.route('/itau_chat', methods=['POST'])
-def itau_chat():
+@app.route('/prompt_chat', methods=['POST'])
+def prompt_chat():
     query = request.get_json()['message']
     prompt = get_prompt('itau_prompt_pt.txt')
     context = get_prompt('itau_context.txt')
